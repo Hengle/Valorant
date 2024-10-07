@@ -21,8 +21,8 @@ struct FColor;
 #endif
 #define UNREALPSKPSA_BPFL_generated_h
 
-#define FID_UnrealProject_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_SPARSE_DATA
-#define FID_UnrealProject_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_RPC_WRAPPERS \
+#define FID_UnrealProject_Valorant_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_SPARSE_DATA
+#define FID_UnrealProject_Valorant_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSetMeshReference); \
 	DECLARE_FUNCTION(execExecuteConsoleCommand); \
@@ -38,7 +38,7 @@ struct FColor;
 	DECLARE_FUNCTION(execGetComponentByName);
 
 
-#define FID_UnrealProject_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_UnrealProject_Valorant_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSetMeshReference); \
 	DECLARE_FUNCTION(execExecuteConsoleCommand); \
@@ -54,8 +54,8 @@ struct FColor;
 	DECLARE_FUNCTION(execGetComponentByName);
 
 
-#define FID_UnrealProject_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_ACCESSORS
-#define FID_UnrealProject_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_INCLASS_NO_PURE_DECLS \
+#define FID_UnrealProject_Valorant_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_ACCESSORS
+#define FID_UnrealProject_Valorant_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUBPFL(); \
 	friend struct Z_Construct_UClass_UBPFL_Statics; \
@@ -64,7 +64,7 @@ public: \
 	DECLARE_SERIALIZER(UBPFL)
 
 
-#define FID_UnrealProject_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_INCLASS \
+#define FID_UnrealProject_Valorant_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_INCLASS \
 private: \
 	static void StaticRegisterNativesUBPFL(); \
 	friend struct Z_Construct_UClass_UBPFL_Statics; \
@@ -73,7 +73,7 @@ public: \
 	DECLARE_SERIALIZER(UBPFL)
 
 
-#define FID_UnrealProject_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_STANDARD_CONSTRUCTORS \
+#define FID_UnrealProject_Valorant_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UBPFL(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UBPFL) \
@@ -87,7 +87,7 @@ public: \
 	NO_API virtual ~UBPFL();
 
 
-#define FID_UnrealProject_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_ENHANCED_CONSTRUCTORS \
+#define FID_UnrealProject_Valorant_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UBPFL(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -101,27 +101,27 @@ public: \
 	NO_API virtual ~UBPFL();
 
 
-#define FID_UnrealProject_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_17_PROLOG
-#define FID_UnrealProject_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_GENERATED_BODY_LEGACY \
+#define FID_UnrealProject_Valorant_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_17_PROLOG
+#define FID_UnrealProject_Valorant_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_UnrealProject_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_SPARSE_DATA \
-	FID_UnrealProject_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_RPC_WRAPPERS \
-	FID_UnrealProject_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_ACCESSORS \
-	FID_UnrealProject_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_INCLASS \
-	FID_UnrealProject_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_STANDARD_CONSTRUCTORS \
+	FID_UnrealProject_Valorant_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_SPARSE_DATA \
+	FID_UnrealProject_Valorant_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_RPC_WRAPPERS \
+	FID_UnrealProject_Valorant_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_ACCESSORS \
+	FID_UnrealProject_Valorant_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_INCLASS \
+	FID_UnrealProject_Valorant_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_UnrealProject_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_GENERATED_BODY \
+#define FID_UnrealProject_Valorant_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_UnrealProject_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_SPARSE_DATA \
-	FID_UnrealProject_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_UnrealProject_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_ACCESSORS \
-	FID_UnrealProject_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_INCLASS_NO_PURE_DECLS \
-	FID_UnrealProject_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_ENHANCED_CONSTRUCTORS \
+	FID_UnrealProject_Valorant_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_SPARSE_DATA \
+	FID_UnrealProject_Valorant_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_UnrealProject_Valorant_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_ACCESSORS \
+	FID_UnrealProject_Valorant_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_INCLASS_NO_PURE_DECLS \
+	FID_UnrealProject_Valorant_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h_20_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -129,7 +129,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> UNREALPSKPSA_API UClass* StaticClass<class UBPFL>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_UnrealProject_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h
+#define CURRENT_FILE_ID FID_UnrealProject_Valorant_Haven_Plugins_UnrealPSKPSA_Source_UnrealPSKPSA_Public_BPFL_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
