@@ -1,0 +1,7 @@
+{
+	"SourceFiles": [
+		"C:\\UnrealProject\\FinalMapExport\\Plugins\\Uiana\\Source\\Uiana\\Uiana.Build.cs",
+		"C:\\UnrealProject\\FinalMapExport\\Plugins\\UnrealPSKPSA\\Source\\UnrealPSKPSA\\UnrealPSKPSA.Build.cs"
+	],
+	"EngineVersion": "5.1.1"
+}
