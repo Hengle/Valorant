@@ -92,15 +92,15 @@ void EmptyLinkFunctionForGeneratedCodeHismActor() {}
 	}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(AHismActor);
 	AHismActor::~AHismActor() {}
-	struct Z_CompiledInDeferFile_FID_UnrealProject_FinalMapExport_Plugins_Uiana_Source_Uiana_Public_HismActor_h_Statics
+	struct Z_CompiledInDeferFile_FID_UnrealProject_Valorant_FinalMapExport_Plugins_Uiana_Source_Uiana_Public_HismActor_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UnrealProject_FinalMapExport_Plugins_Uiana_Source_Uiana_Public_HismActor_h_Statics::ClassInfo[] = {
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UnrealProject_Valorant_FinalMapExport_Plugins_Uiana_Source_Uiana_Public_HismActor_h_Statics::ClassInfo[] = {
 		{ Z_Construct_UClass_AHismActor, AHismActor::StaticClass, TEXT("AHismActor"), &Z_Registration_Info_UClass_AHismActor, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AHismActor), 2248000105U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UnrealProject_FinalMapExport_Plugins_Uiana_Source_Uiana_Public_HismActor_h_1701194237(TEXT("/Script/Uiana"),
-		Z_CompiledInDeferFile_FID_UnrealProject_FinalMapExport_Plugins_Uiana_Source_Uiana_Public_HismActor_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_UnrealProject_FinalMapExport_Plugins_Uiana_Source_Uiana_Public_HismActor_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UnrealProject_Valorant_FinalMapExport_Plugins_Uiana_Source_Uiana_Public_HismActor_h_1701194237(TEXT("/Script/Uiana"),
+		Z_CompiledInDeferFile_FID_UnrealProject_Valorant_FinalMapExport_Plugins_Uiana_Source_Uiana_Public_HismActor_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_UnrealProject_Valorant_FinalMapExport_Plugins_Uiana_Source_Uiana_Public_HismActor_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

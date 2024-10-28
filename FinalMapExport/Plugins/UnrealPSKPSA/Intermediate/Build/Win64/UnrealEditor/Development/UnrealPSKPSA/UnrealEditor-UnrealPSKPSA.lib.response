@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-UnrealPSKPSA.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\UnrealProject\FinalMapExport\Intermediate\Build\Win64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
-"C:\UnrealProject\FinalMapExport\Plugins\UnrealPSKPSA\Intermediate\Build\Win64\UnrealEditor\Development\UnrealPSKPSA\Module.UnrealPSKPSA.cpp.obj"
-"C:\UnrealProject\FinalMapExport\Plugins\UnrealPSKPSA\Intermediate\Build\Win64\UnrealEditor\Development\UnrealPSKPSA\Default.rc2.res"
-/OUT:"C:\UnrealProject\FinalMapExport\Plugins\UnrealPSKPSA\Intermediate\Build\Win64\UnrealEditor\Development\UnrealPSKPSA\UnrealEditor-UnrealPSKPSA.lib"
+"C:\UnrealProject\Valorant\FinalMapExport\Intermediate\Build\Win64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\UnrealProject\Valorant\FinalMapExport\Plugins\UnrealPSKPSA\Intermediate\Build\Win64\UnrealEditor\Development\UnrealPSKPSA\Module.UnrealPSKPSA.cpp.obj"
+"C:\UnrealProject\Valorant\FinalMapExport\Plugins\UnrealPSKPSA\Intermediate\Build\Win64\UnrealEditor\Development\UnrealPSKPSA\Default.rc2.res"
+/OUT:"C:\UnrealProject\Valorant\FinalMapExport\Plugins\UnrealPSKPSA\Intermediate\Build\Win64\UnrealEditor\Development\UnrealPSKPSA\UnrealEditor-UnrealPSKPSA.lib"

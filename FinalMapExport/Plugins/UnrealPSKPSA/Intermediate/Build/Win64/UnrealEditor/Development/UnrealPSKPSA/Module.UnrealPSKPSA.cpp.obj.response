@@ -1,6 +1,6 @@
-C:\UnrealProject\FinalMapExport\Plugins\UnrealPSKPSA\Intermediate\Build\Win64\UnrealEditor\Development\UnrealPSKPSA\Module.UnrealPSKPSA.cpp
+C:\UnrealProject\Valorant\FinalMapExport\Plugins\UnrealPSKPSA\Intermediate\Build\Win64\UnrealEditor\Development\UnrealPSKPSA\Module.UnrealPSKPSA.cpp
 /I .
-/I C:\UnrealProject\FinalMapExport\Plugins\UnrealPSKPSA\Source\UnrealPSKPSA\Private
+/I C:\UnrealProject\Valorant\FinalMapExport\Plugins\UnrealPSKPSA\Source\UnrealPSKPSA\Private
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT
 /I Runtime
 /I Runtime\CoreUObject\Public
@@ -279,24 +279,24 @@ C:\UnrealProject\FinalMapExport\Plugins\UnrealPSKPSA\Intermediate\Build\Win64\Un
 /I ..\Plugins\Editor\EditorScriptingUtilities\Source\EditorScriptingUtilities\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\StaticMeshEditor\UHT
 /I Editor\StaticMeshEditor\Public
-/I C:\UnrealProject\FinalMapExport\Plugins\UnrealPSKPSA\Intermediate\Build\Win64\UnrealEditor\Inc\UnrealPSKPSA\UHT
-/I C:\UnrealProject\FinalMapExport\Plugins\UnrealPSKPSA\Source
-/I C:\UnrealProject\FinalMapExport\Plugins\UnrealPSKPSA\Source\UnrealPSKPSA\Public
+/I C:\UnrealProject\Valorant\FinalMapExport\Plugins\UnrealPSKPSA\Intermediate\Build\Win64\UnrealEditor\Inc\UnrealPSKPSA\UHT
+/I C:\UnrealProject\Valorant\FinalMapExport\Plugins\UnrealPSKPSA\Source
+/I C:\UnrealProject\Valorant\FinalMapExport\Plugins\UnrealPSKPSA\Source\UnrealPSKPSA\Public
 /external:W0
 /external:I ThirdParty\mimalloc\include
 /external:I ThirdParty\LibTiff\Source\Win64
 /external:I ThirdParty\LibTiff\Source
-/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\UnrealProject\FinalMapExport\Intermediate\Build\Win64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
-/FI"C:\UnrealProject\FinalMapExport\Plugins\UnrealPSKPSA\Intermediate\Build\Win64\UnrealEditor\Development\UnrealPSKPSA\Definitions.UnrealPSKPSA.h"
-/Yu"C:\UnrealProject\FinalMapExport\Intermediate\Build\Win64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
-/Fp"C:\UnrealProject\FinalMapExport\Intermediate\Build\Win64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
-/Fo"C:\UnrealProject\FinalMapExport\Plugins\UnrealPSKPSA\Intermediate\Build\Win64\UnrealEditor\Development\UnrealPSKPSA\Module.UnrealPSKPSA.cpp.obj"
-/sourceDependencies C:\UnrealProject\FinalMapExport\Plugins\UnrealPSKPSA\Intermediate\Build\Win64\UnrealEditor\Development\UnrealPSKPSA\Module.UnrealPSKPSA.cpp.dep.json
+/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\INCLUDE"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
+/FI"C:\UnrealProject\Valorant\FinalMapExport\Intermediate\Build\Win64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
+/FI"C:\UnrealProject\Valorant\FinalMapExport\Plugins\UnrealPSKPSA\Intermediate\Build\Win64\UnrealEditor\Development\UnrealPSKPSA\Definitions.UnrealPSKPSA.h"
+/Yu"C:\UnrealProject\Valorant\FinalMapExport\Intermediate\Build\Win64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
+/Fp"C:\UnrealProject\Valorant\FinalMapExport\Intermediate\Build\Win64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
+/Fo"C:\UnrealProject\Valorant\FinalMapExport\Plugins\UnrealPSKPSA\Intermediate\Build\Win64\UnrealEditor\Development\UnrealPSKPSA\Module.UnrealPSKPSA.cpp.obj"
+/sourceDependencies C:\UnrealProject\Valorant\FinalMapExport\Plugins\UnrealPSKPSA\Intermediate\Build\Win64\UnrealEditor\Development\UnrealPSKPSA\Module.UnrealPSKPSA.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi
