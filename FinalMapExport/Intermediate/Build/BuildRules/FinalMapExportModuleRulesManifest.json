@@ -1,7 +1,9 @@
 {
 	"SourceFiles": [
 		"C:\\UnrealProject\\Valorant\\FinalMapExport\\Plugins\\Uiana\\Source\\Uiana\\Uiana.Build.cs",
-		"C:\\UnrealProject\\Valorant\\FinalMapExport\\Plugins\\UnrealPSKPSA\\Source\\UnrealPSKPSA\\UnrealPSKPSA.Build.cs"
+		"C:\\UnrealProject\\Valorant\\FinalMapExport\\Plugins\\UnrealPSKPSA\\Source\\UnrealPSKPSA\\UnrealPSKPSA.Build.cs",
+		"C:\\UnrealProject\\Valorant\\FinalMapExport\\Intermediate\\Source\\FinalMapExport.Build.cs",
+		"C:\\UnrealProject\\Valorant\\FinalMapExport\\Intermediate\\Source\\FinalMapExport.Target.cs"
 	],
 	"EngineVersion": "5.1.1"
 }

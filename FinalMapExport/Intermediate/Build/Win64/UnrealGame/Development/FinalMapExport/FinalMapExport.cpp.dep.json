@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealproject\\valorant\\finalmapexport\\intermediate\\source\\finalmapexport.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealproject\\valorant\\finalmapexport\\intermediate\\build\\win64\\finalmapexport\\development\\core\\sharedpch.core.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\unrealproject\\valorant\\finalmapexport\\intermediate\\build\\win64\\unrealgame\\development\\finalmapexport\\definitions.finalmapexport.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
