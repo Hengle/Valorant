@@ -42,9 +42,16 @@
 - 적 처치 및 스파이크 설치로 라운드 승리 목표
 ---
 
-## 🛠️ 사용 기술
+## 🛠 개발 도구 및 기술 스택
 
-- **Unreal Engine 5** (Blueprint)
-- **Niagara VFX**, **Material**, **Animation Blueprint**
-- **UI/UX (UMG, Widget Blueprint)**
+- Unreal Engine 5 
+- Niagara VFX
+- Material, Animation Blueprint
+- UMG 및 Widget Blueprint 기반 UI
+---
+## 📌 기타 사항
+
+- 스파이크 폭파, 킬 피드, 라운드 시스템 등 발로란트의 핵심 요소 재현
+- 다양한 이펙트와 애니메이션으로 몰입도 강화
+- 언리얼 엔진 5의 최신 기능들을 학습하고 활용
 
